@@ -43,7 +43,7 @@ function Translator () {
               <Col>
                 <div className="translator-header">
                     <h2>
-                        CYNOSURE'S TRANSLATOR
+                        CYNOSURE'S LANGUAGE TRANSLATOR
                     </h2>
                 </div>
               </Col>
